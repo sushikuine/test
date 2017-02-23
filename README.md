@@ -1,2 +1,2 @@
 # test
-test repository
+このtest repositoryは、Webhookをテストするために作られたものです。
